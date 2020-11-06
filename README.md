@@ -58,7 +58,6 @@
 [git-connected]: https://gitconnected.com/dollarmatian
 
 
----
 
   <img align="left" alt="dollarmatian's GitHub Stats" src="https://github-readme-stats.dollarmatian.vercel.app/api?username=dollarmatian&show_icons=true&hide_border=true" />
 
