@@ -47,6 +47,11 @@
 
   <img align="left" alt="dollarmatian's GitHub Stats" src="https://github-readme-stats.dollarmatian.vercel.app/api?username=dollarmatian&show_icons=true&hide_border=true" />
 
+---
+
+### Listening on Spotify
+
+[![Spotify](https://novatorem.dollarmatian.vercel.app/api/spotify)](https://open.spotify.com/user/dollarmatian)
 
 [website]: https://dollarmatian.dev
 [twitter]: https://twitter.com/dollarmatian
@@ -56,6 +61,4 @@
 [git-connected]: https://gitconnected.com/dollarmatian
 
 
-### Listening on Spotify
 
-[![Spotify](https://novatorem.dollarmatian.vercel.app/api/spotify)](https://open.spotify.com/user/dollarmatian)
