@@ -1,4 +1,4 @@
-### Hi there, I'm Nathan [website] 👋
+### Hi there, I'm Nathan 👋
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-salandy)
@@ -6,7 +6,7 @@
 ## I'm a Creative, a Developer, and Dalmatian Lover!!
 
 - 🔭 I'm currently working on a couple of awesome Client Projects.
-- 🌱 I’m currently learning Django. [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
+- 🌱 I’m currently learning Django. <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 - 👯 I’m looking to collaborate with other developers for community connection.
 - 🤔 I’m looking for help with growing my talent and knowledge base through intriguing conversation.
 - 🥅 November Goals: Contribute more to Open Source projects.
