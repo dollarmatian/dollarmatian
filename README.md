@@ -43,6 +43,11 @@
 <br />
 <br />
 
+
+---
+
+  <img align="left" alt="dollarmatian's GitHub Stats" src="https://github-readme-stats.dollarmatian.vercel.app/api?username=dollarmatian&show_icons=true&hide_border=true" />
+
 ---
 
 ### Listening on Spotify
@@ -58,9 +63,6 @@
 
 
 
----
-
-  <img align="left" alt="dollarmatian's GitHub Stats" src="https://github-readme-stats.dollarmatian.vercel.app/api?username=dollarmatian&show_icons=true&hide_border=true" />
 
 
 
