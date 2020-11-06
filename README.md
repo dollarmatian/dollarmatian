@@ -63,4 +63,4 @@
 
 ### Listening on Spotify
 
-[![Spotify](https://dollarmatian.vercel.app/api/spotify)](https://open.spotify.com/user/dollarmatian)
+[![Spotify](https://novatorem.dollarmatian.vercel.app/api/spotify)](https://open.spotify.com/user/dollarmatian)
