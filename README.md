@@ -6,11 +6,11 @@
 ## I'm a Creative, a Developer, and a Dalmatian Lover!!
 
 - 🔭 I'm currently working on a couple of awesome Client Projects.
-- 🌱 I’m currently learning Django. 
-- 👯 I’m looking to collaborate with other developers for community connection.
+- 🌱 I’m currently learning TensorFlow. 
+- 👯 I’m looking to collaborate with other developers for community connection(s).
 - 🤔 I’m looking for help with growing my talent and knowledge base through intriguing conversation.
-- 🥅 November Goals: Contribute more to Open Source projects.
-- ⚡ Fun facts: I love to act and enjoy playing rubiks cube.
+- 🥅 June Goals: Contribute more to Open Source projects.
+- ⚡ Fun facts: I love to act, sing, play music (Guitar and Piano) and I enjoy solving rubiks cube.
 
 
 
