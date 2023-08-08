@@ -46,9 +46,6 @@
 
 ---
 
-### Listening on Spotify
-
-[![Spotify](https://novatorem.dollarmatian.vercel.app/api/spotify)](https://open.spotify.com/user/dollarmatian)
 
 [website]: https://dollarmatian.dev
 [twitter]: https://twitter.com/dollarmatian
